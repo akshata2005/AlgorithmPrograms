@@ -13,6 +13,7 @@ namespace AlgorithmProgram
             Console.WriteLine("Welcome To Algorithmic Programs");
 
             BinarySearch.Search();
+            InsertionSort.Insertionsort();
         }
     }
 }
