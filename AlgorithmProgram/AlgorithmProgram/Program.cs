@@ -16,6 +16,7 @@ namespace AlgorithmProgram
             InsertionSort.Insertionsort();
             Bubblesort.Bubble();
             PrimeNumber.Prime();
+            Anagram.FindAnagram();
         }
     }
 }
