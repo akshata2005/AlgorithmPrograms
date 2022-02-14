@@ -14,6 +14,7 @@ namespace AlgorithmProgram
 
             BinarySearch.Search();
             InsertionSort.Insertionsort();
+            Bubblesort.Bubble();
         }
     }
 }
